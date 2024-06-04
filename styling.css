@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+ul{
+    display: flex;
+}
+
+.section-one{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+li {
+    list-style: none;
+    color: grey;
+    cursor: pointer;
+}
+
+li:hover {
+    color: white;
+}
+
+.section-two{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.section-two__name {
+    border: solid black 2px;
+    width: 250px;
+    text-align: center;
+    vertical-align: top;
+    margin: 8px;
+}
+
+p:hover {
+    background-color: black;
+    color: white
+}
+
+a {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    padding-top: 2px;
+    border: solid black 1px;
+
+}
+
+p {
+    padding-bottom: 7px;
+}
+
+h1 {
+    text-align: center;
+}
+.section-three {
+    background-color: black;
+    color: white;
+    padding: 15px;
+
+}
+
+form {
+    text-align: center;
+}
+
+table {
+    margin: 0 auto;
+    /*This will center the table horizontally
+    CSS property that sets the top and bottom margins of an element to 0 and centers it horizontally within its parent element.
+    margin: 0;: This sets the margin on all sides of the element to 0, effectively removing any space around it.
+    auto: This value is applied to the horizontal margins (left and right). When set to auto, it evenly distributes the remaining space on both sides of the element, 
+    effectively centering it horizontally within its containing block. */
+}
+
+button {
+    background-color: yellow;
+    color: black;
+    width: 400px;
+}
+
+
+
+

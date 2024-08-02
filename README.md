@@ -11,7 +11,7 @@ Welcome to the online ordering platform for **Reestar**! We've crafted a simple 
 **CSS:** Employed for styling and layout purposes, enhancing the visual appeal and usability of our website.
 
 # How to View
-You can access my Restaurant website by visiting [link]. Feel free to explore the content and get in touch with me to discuss collaborations, projects, or any inquiries you may have. I look forward to connecting with you!
+You can access my Restaurant website by visiting https://manikandansridharan.github.io/Restaurant-Online-Order-Simple-Website/. Feel free to explore the content and get in touch with me to discuss collaborations, projects, or any inquiries you may have. I look forward to connecting with you!
 
 # Contributing
 We welcome contributions from the community to enhance and improve our online ordering website. Whether you're proficient in HTML/CSS or have suggestions for new features, we appreciate your input! To contribute, simply fork this repository, make your changes, and submit a pull request.
